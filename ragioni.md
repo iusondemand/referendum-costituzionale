@@ -10,6 +10,7 @@
 - Art. 70: nel vecchio testo il Parlamento fa le leggi. Chiaro. Nel lunghissimo nuovo incomprensibile testo il Parlamento talvolta fa le leggi
 - Art. 73: nel vecchio testo tutte le leggi sono promulgate dal Capo dello Stato che puo' rispedirle alle Camere. Nel nuovo testo la sola Camera da sola puo' decidere l'urgenza e promulgare senza la firma del Capo dello Stato
 - art. 77: Con il si' il Governo potra' fare quello che fa il Parlamento con una semplice legge. <br>Con il no il Parlamento non puo' cedere propri poteri al Governo.
+- art. 80: Con il si' per ratificare un trattato europeo ci vorranno le due Camere, per un trattato internazionale basta una.
 
 ### Dichiarazioni
 - Renzi: "E' in ballo la burocrazia, non la democrazia". Togliere il Senato e lasciare la Camera e' lotta alla burocrazia ?
