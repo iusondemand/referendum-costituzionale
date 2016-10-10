@@ -31,4 +31,5 @@
 
 - Ridurre i parlamentari
 - Togliere alcuni enti le cui funzioni verranno assunte da altri enti
+- Se non superiamo la palude attuale non ne usciremo mai. Sara' l'ultima volta.
 
