@@ -1,0 +1,3 @@
+LICENZA MIT
+
+Fate dei testi l'uso che credete meglio. Anche senza citare l'autore. Se potete citate il repository git.
